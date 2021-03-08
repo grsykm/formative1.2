@@ -1,0 +1,39 @@
+body {
+  background-image: url('../img/bg.png');
+  font-family: 'Montserrat', sans-serif;
+}
+/* Navigation starts */
+#nav {
+  position: fixed;
+  height: 45px;
+  width: 100%;
+  background-color: RGB(3, 115, 103);
+}
+
+.fa-bars {
+  font-size: 20px;
+  color: white;
+  margin-top:10px;
+}
+
+.logo1 {
+
+
+}
+
+.fa-search {
+  font-size: 20px;
+  color: white;
+  margin-top:10px;
+}
+/* Navigation ENDS */
+/* Header starts */
+
+
+.title {
+  font-size:30px;
+  width:80%;
+  text-align:center;
+  margin-top: 100px;
+}
+/* Header ENDS */
