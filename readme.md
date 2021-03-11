@@ -5,7 +5,7 @@
 ### Intro 📁
 This project came into fruition from the UX Research Project in which Mohnish Leuva, Ciaran Slow and I teamed up to create a prototype for the Wellington Botanical Gardens homepage.
 
-### Redesigning the Homepage
+### Redesigning 🖊️
 The Wellington City Council has not updated the homepage for the Wellington Botanical Gardens for a long time, seeing as the JavaScript supporting the webpage is now outdated. Our team wanted to redesign and update the homepage so it would be more appealing and attract more people.
 
 ### Key Points 🔑
@@ -27,8 +27,6 @@ Insert these into the < head > of your code!
 ~~~
  <link rel="preconnect" href="https://fonts.gstatic.com">
 ~~~
-  
-
 
 ### Libraries 📚
 Insert these into the part right before the </ body > tag!
@@ -37,6 +35,5 @@ Insert these into the part right before the </ body > tag!
 ~~~
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 ~~~
-
 
 ### Code Snippets
