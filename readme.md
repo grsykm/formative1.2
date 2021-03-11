@@ -14,7 +14,7 @@ The Wellington City Council has not updated the homepage for the Wellington Bota
 * CSS styling to help make the website stand out
 
 ### Necessary Resources 🗞️
-Insert these into the <head> of your code! 
+Insert these into the head of your code! 
 * [FontAwesome 4](https://fontawesome.com/v4.7.0/get-started/)
 ~~~
 <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -31,6 +31,7 @@ Insert these into the <head> of your code!
 
 
 ### Libraries 📚
+Insert these into the part right before the </ body > tag!
 
 * [jQuery 2.x Snippet](https://developers.google.com/speed/libraries#jquery)
 ~~~
