@@ -13,7 +13,9 @@ The Wellington City Council has not updated the homepage for the Wellington Bota
 
 ### Necessary Resources
 * [FontAwesome 4](https://fontawesome.com/v4.7.0/get-started/) - Stylesheet: 
-~~<link rel="stylesheet" href="css/font-awesome.min.css">~~
+~~~
+<link rel="stylesheet" href="css/font-awesome.min.css">
+~~~
 * [BootStrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 
