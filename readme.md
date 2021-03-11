@@ -1,4 +1,4 @@
-# ✨ Formative 1.1 README.md ✨
+# ✨ Formative 1.2 README.md ✨
 
 ## 🌹 Wellington Botanical Gardens 🌹
 
